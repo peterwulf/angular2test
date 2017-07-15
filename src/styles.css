@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font: 14px 'Montserrat', sans-serif;
+	line-height: 1.4em;
+	background: #676767;
+	color: #4d4d4d;
+	min-width: 230px;
+	max-width: 550px;
+	margin: 0 auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
